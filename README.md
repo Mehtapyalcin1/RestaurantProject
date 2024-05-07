@@ -2,7 +2,8 @@
 This repository contains the code for a restaurant website designed to showcase the restaurant's menu, products, customer reviews, contact information, and blog posts. The website utilizes HTML, CSS, and JavaScript to create an interactive and visually appealing experience for visitors.
 
 # GIF:
-![RestaurantProject](https://github.com/SakirParlakbileker/RestaurantProject/assets/147662891/611c0ac5-b47a-474c-abb5-3ccefae41ada)
+![EkranKayd2024-05-0716 45 32-ezgif com-video-to-gif-converter](https://github.com/Mehtapyalcin1/RestaurantProject/assets/148896925/93d6b235-b134-4d04-a7e2-988f5cfafa33)
+
 
 # Technologies Used:
 
