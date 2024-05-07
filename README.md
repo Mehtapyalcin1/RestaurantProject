@@ -34,4 +34,3 @@ Incorporated to enhance typography choices and overall design aesthetics.
 - Blogs: Features blog posts related to food recipes and tips, encouraging engagement and sharing.
   
 The website aims to offer a seamless browsing experience for visitors interested in exploring the restaurant's offerings, learning about its history, and engaging with its content.
-# RestaurantProject
